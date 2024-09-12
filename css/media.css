@@ -1,0 +1,333 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+/*header start*/
+header{
+	margin: 18px;
+}
+	/*banner start*/
+.banner{
+	margin: 18px;
+}
+.bp1{
+	margin-top: 10px;
+	font-size: 16px;
+}
+.bh1{
+   margin: 20px -51px 24px;
+ margin-right: 36px;
+font-size: 30px;
+}
+.bp2{
+font-size: 12px;
+line-height: 26px;	
+}
+
+.b_link{
+    margin-left: -52px !important;
+    font-size: 13px;
+}
+/*feature start*/
+.feature{
+	margin: 20px;
+}
+.f_h1 {
+    font-size: 35px !important;
+}
+/*destination start*/
+.destination{
+	margin: 13px;
+}
+.fp{
+	font-size: 12px;
+}
+    .f_h1 {
+        font-size: 30px !important;
+    }
+   .dt_right span {
+    margin-left: 192px;
+    margin-top: -68px;
+}    
+
+.mp
+	 {
+    padding-right: 0px;
+    margin-right: 0px;
+}
+.e_p1{
+	font-size: 14px;
+
+}
+.eh1{
+	    
+	font-size: 37px;
+	
+}
+/*logo img start*/
+.l_img{
+	margin: 12px;
+}
+/*form start*/
+.form{
+	margin: 26px;
+}
+.c_h1{
+	    margin: 26px 0px 0;
+	    font-size: 22px;
+}
+/*footer top start*/
+.f_1 h2{
+	margin-left: 40px;
+}
+.f_1 p{
+	margin-left: 53px;
+}
+.f_2{
+	margin-left: 50px;
+}
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*banner start*/
+.bp1{
+	font-size: 16px;
+}
+.bh1{
+margin: 0px -50px 0px;
+font-size: 50px
+}
+.bp2{
+line-height: 26px;	
+}
+
+.b_link{
+    margin-left: -52px !important;
+    font-size: 13px;
+}
+/*feature start*/
+.f_h1 {
+    
+    font-size: 35px !important;
+}
+.s_f h2{
+	padding: 1px 0px 15px !important;
+	
+}
+.sf_h2{
+	margin: 32px -34px 0 !important;
+}
+.sf_p {
+    margin: 0 -20px 0px !important;
+}
+
+.mp
+	 {
+    padding-right: 0px;
+    margin-right: 0px;
+}
+.e_p1{
+	font-size: 14px;
+
+}
+.eh1{
+	    
+	font-size: 37px;
+	
+}
+/*footer top start*/
+.f_1 h2{
+	margin-left: 154px;
+}
+.f_1 p{
+	margin-left: 53px;
+}
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+header{
+	margin: 42px;
+}
+.btn_cm{
+	    margin-left: -6px;
+}
+/*banner start*/
+.banner{
+	margin: 42px;
+}
+.bp1{
+	font-size: 16px;
+}
+.bh1{
+font-size: 60px
+}
+.bp2{
+line-height: 26px;	
+}
+
+.b_link{
+    margin-left: -52px !important;
+    font-size: 13px;
+}
+/*feature start*/
+
+.feature{
+	margin: 42px;
+}
+.f_h1 {
+    
+    font-size: 40px !important;
+}
+.s_f h2{
+	padding: 1px 0px 15px !important;
+	
+}
+.sf_h2{
+	margin: 32px -23px 0 !important;
+}
+.sf_p {
+    margin: 0 -20px 0px !important;
+}
+/*destination start*/
+.destination{
+	margin: 42px;
+}
+.mp
+	 {
+    padding-right: 0px;
+    margin-right: 0px;
+}
+.e_p1{
+	font-size: 14px;
+
+}
+.eh1{
+	    
+	font-size: 37px;
+	
+}
+/*logo img start*/
+.l_img{
+	margin: 42px;
+}
+/*form start*/
+.form{
+	margin: 42px;
+}
+/*footer top start*/
+#blog{
+	margin: 42px;
+}
+.lw{
+	margin-right: -7px;
+    margin-left: -4px;
+
+}
+/*footer start*/
+footer{
+	margin: 42px;
+}
+}
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/*header start*/
+header{
+	margin: 42px;
+}
+/*banner start*/
+.banner{
+	margin: 42px;
+}
+.bh1{
+	    font-size: 75px !important;
+}
+
+
+
+/*feature start*/
+.feature{
+	margin: 42px;
+}
+.s_f h2{
+	padding: 1px 0px 15px !important;
+	
+}
+.sf_h2{
+	margin: 32px -55px 0 !important;
+}
+.sf_p {
+    margin: 0 -20px 0px !important;
+}
+/*destination start*/
+.destination{
+	margin: 42px;
+}
+.dt_right span {
+    margin-left: 210px;
+    margin-top: -70px;
+}
+.mp
+	 {
+    padding-right: 0px;
+    margin-right: 0px;
+}
+/*logo img start*/
+.l_img{
+	margin: 42px;
+}
+/*form start*/
+.form{
+	margin: 42px;
+}
+/*footer top start*/
+#blog{
+	margin: 42px;
+}
+/*footer start*/
+footer{
+	margin: 42px;
+}
+}
+
+/* Extra Large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	/*header start*/
+header{
+	margin: 42px;
+}
+/*feature start*/
+.s_f h2{
+	padding: 1px 0px 15px !important;
+	
+}
+.sf_h2{
+	margin: 32px -23px 0 !important;
+}
+.mp
+	 {
+    padding-right: 0px;
+    margin-right: 123px;
+}
+/*logo img start*/
+.l_img{
+	margin: 42px;
+}
+/*form start*/
+.form{
+	margin: 42px;
+}
+/*footer top start*/
+#blog{
+	margin: 42px;
+}
+/*footer start*/
+footer{
+	margin: 42px;
+}
+
+}
+
+/* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+}
